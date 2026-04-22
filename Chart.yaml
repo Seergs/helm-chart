@@ -9,7 +9,7 @@ description: |-
 annotations:
   category: TaskTracker
 version: 2.2.0
-appVersion: 2.3.0
+appVersion: 2.1.0
 kubeVersion: ">= 1.19"
 dependencies:
 - name: common
